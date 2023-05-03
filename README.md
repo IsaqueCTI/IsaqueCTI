@@ -5,8 +5,6 @@
 - 📫 Email de contato: isaque.s.santana@unesp.br
 - 😄 Pronouns: ele/dele
 
-<hr/>
-
 ## Minhas skils 🧠
 
 <div> 
@@ -15,8 +13,6 @@
     <img align="center" alt="img" height="35" width="40" src="https://user-images.githubusercontent.com/102702098/236036261-c4117af7-2630-4c32-945e-d525765fe75d.png">
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
 </div>
-
-<hr/>
 
 ## Redes Sociais 💻
 
