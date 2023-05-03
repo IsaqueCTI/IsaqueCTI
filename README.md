@@ -1,4 +1,4 @@
-### Opa, Isaque aqui 👋
+## Opa, Isaque aqui 👋
 
 - 🔭 Minha meta é trabalhar com front-end ou full stack
 - 🌱 Estudando atualmente HTML, CSS, JS e Vue.js
@@ -7,7 +7,7 @@
 
 <hr/>
 
-### Minhas skils 🧠
+## Minhas skils 🧠
 
 <div> 
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236035674-63df92fb-5a52-4119-a950-8001b6c6cfbd.png">
@@ -16,5 +16,10 @@
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
 </div>
 
+<hr/>
 
+## Redes Sociais 💻
+
+<a href="https://www.instagram.com/isaque.css/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</a>
 
