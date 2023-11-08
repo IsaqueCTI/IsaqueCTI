@@ -18,9 +18,7 @@ Você pode me chamar atravéz das minhas redes sociais ou
 </div>
 
 <!-- Fun GIF Section -->
-<p align="center">
-  <img src="https://giphy.com/gifs/netflix-cyberpunk-edgerunners-RGyUJwAFjP38P3uEiV" width="100%" alt="img">
-</p>
+<iframe src="https://giphy.com/embed/RGyUJwAFjP38P3uEiV" width="100%" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/netflix-cyberpunk-edgerunners-RGyUJwAFjP38P3uEiV">via GIPHY</a></p>
 
 ## Redes Sociais 💻
 
