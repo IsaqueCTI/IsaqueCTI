@@ -20,6 +20,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <br>
 
 <div>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true&theme=dark"
