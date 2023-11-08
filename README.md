@@ -33,7 +33,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 Você pode me chamar atravéz das minhas redes sociais ou
 📫 Email de contato: isaque.s.santana@unesp.br
-
 ##
 
 <!-- Fun GIF Section -->
