@@ -19,7 +19,7 @@ Você pode me chamar atravéz das minhas redes sociais ou
 
 <!-- Fun GIF Section -->
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?        imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="img">
+  <img src="https://giphy.com/gifs/netflix-cyberpunk-edgerunners-RGyUJwAFjP38P3uEiV" width="100%" alt="img">
 </p>
 
 ## Redes Sociais 💻
