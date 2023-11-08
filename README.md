@@ -36,10 +36,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
+<div style="display: flex;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20px;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20px;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20px;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20px;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20px;">
 </div>
