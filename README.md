@@ -3,11 +3,6 @@
 🔭 Minha meta é seguir carreira no front-end ou full stack, atualmente estou estudando HTML, CSS, JS e Vue.js 
 e novas maneiras de criação de sites.
 
-## Como me contatar
-
-Você pode me chamar atravéz das minhas redes sociais ou
-📫 Email de contato: isaque.s.santana@unesp.br
-
 ## Minhas skils 🧠
 
 <div> 
@@ -31,9 +26,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
   />
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true" />
 </picture>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCTI&layout=compact&langs_count-16&theme=dark"/>    
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCTI&layout=compact&langs_count-       16&theme=dark"/>    
 </div>
-<br>
+
+## Como me contatar
+
+Você pode me chamar atravéz das minhas redes sociais ou
+📫 Email de contato: isaque.s.santana@unesp.br
 
 <!-- Fun GIF Section -->
 <p align="center">
