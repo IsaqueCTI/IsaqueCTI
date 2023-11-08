@@ -19,6 +19,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </div>
 <br>
 
+<div>
+    <a href="https://github.com/rafaballerini">
+    <img height="180" src="https://github-readee-stats.vercel.app/api?username-rafaballerini&show icons-true&theme-dracula&include all commits-true&count private-true"/>
+    <img height="180" src="https://github-readne-stats.vercel.app/api/top-langs/?username-rafaballerini layout-compact&langs_count-16&these-dracula"/>
+</div>
+
 <!-- Fun GIF Section -->
 <p align="center">
     <img src="https://sun9-73.userapi.com/impf/13KjueSC2ggxu0dFon1D_6e3eGUASG0DFjeXEg/PUVwj-flmEM.jpg?size=1920x768&quality=95&crop=0,40,1591,635&sign=4868f5fde7beafbe218342146dbc1814&type=cover_group" style="width:100; height:60; object-fit:cover;">
