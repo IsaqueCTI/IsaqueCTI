@@ -1,4 +1,6 @@
-## Opa, Isaque aqui 👋
+<div class="main" style="display: flex;">
+<div class="left" style="width:50%">
+            ## Opa, Isaque aqui 👋
 
 🔭 Minha meta é seguir carreira no front-end ou full stack, atualmente estou estudando HTML, CSS, JS e Vue.js 
 e novas maneiras de criação de sites.
@@ -11,13 +13,19 @@ Você pode me chamar atravéz das minhas redes sociais ou
 ## Minhas skils 🧠
 
 <div> 
-    <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236035674-63df92fb-5a52-4119-a950-8001b6c6cfbd.png">
-    <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036053-8c97ea74-31b2-417a-bbea-0dc63c5b3acc.png">
-    <img align="center" alt="img" width="40"   
+<img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236035674-63df92fb-5a52-4119-a950-8001b6c6cfbd.png">
+<img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036053-8c97ea74-31b2-417a-bbea-0dc63c5b3acc.png">
+<img align="center" alt="img" width="40"   
 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-    <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
+<img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
 </div>
 <br>
+</div>
+        <div class="right" style="width:50%">
+            <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/RkDZq0dhhYHhxdFrJB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+        </div>
+</div>
+
 
 <!-- Fun GIF Section -->
 <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%; height: 20px; object-fit: cover;">
