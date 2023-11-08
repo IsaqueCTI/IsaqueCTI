@@ -18,7 +18,7 @@ Você pode me chamar atravéz das minhas redes sociais ou
 </div>
 
 <!-- Fun GIF Section -->
-<img src="https://media.giphy.com/media/RGyUJwAFjP38P3uEiV/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%; height: 40px; object-fit: cover;">
 
 
 ## Redes Sociais 💻
