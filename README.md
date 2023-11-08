@@ -22,7 +22,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <br>
 </div>
         <div class="right" style="width:50%">
-            <img src="https://giphy.com/embed/RkDZq0dhhYHhxdFrJB">
+            <img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%; height: 20px; object-fit: cover;">
         </div>
 </div>
 
