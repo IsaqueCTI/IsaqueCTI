@@ -17,6 +17,11 @@ Você pode me chamar atravéz das minhas redes sociais ou
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
 </div>
 
+<!-- Fun GIF Section -->
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?        imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="img">
+</p>
+
 ## Redes Sociais 💻
 
 <a href="https://www.instagram.com/isaque.css/">
