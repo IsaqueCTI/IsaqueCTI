@@ -30,6 +30,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
   />
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true" />
 </picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?IsaqueCTI=anuraghazra&layout=compact)
 
 <br>
 
