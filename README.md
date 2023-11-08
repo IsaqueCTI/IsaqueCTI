@@ -20,7 +20,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <br>
 
 <!-- Fun GIF Section -->
-<img src="https://giffiles.alphacoders.com/105/105022.gif" width="70%; height: 50%; object-fit: cover;">
+<img src="https://giffiles.alphacoders.com/105/105022.gif" width="400; height: 50; object-fit: cover;">
 
 ## Redes Sociais 💻
 
