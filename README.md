@@ -19,6 +19,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </div>
 <br>
 
+<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true&theme=dark"
@@ -30,7 +31,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
   />
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueCTI&show_icons=true" />
 </picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCTI&layout=compact&langs_count-16&theme-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueCTI&layout=compact&langs_count-16&theme=dark"/>    
+</div>
 <br>
 
 <!-- Fun GIF Section -->
