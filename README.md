@@ -2,8 +2,11 @@
 
 - 🔭 Minha meta é trabalhar com front-end ou full stack
 - 🌱 Estudando atualmente HTML, CSS, JS e Vue.js
-- 📫 Email de contato: isaque.s.santana@unesp.br
-- 😄 Pronouns: ele/dele
+
+## Como me contatar
+
+Você pode me chamar atravéz das minhas redes sociais ou
+📫 Email de contato: isaque.s.santana@unesp.br
 
 ## Minhas skils 🧠
 
