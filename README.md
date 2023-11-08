@@ -6,6 +6,7 @@ e novas maneiras de criação de sites.
 ## Minhas skils 🧠
 
 <div> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236035674-63df92fb-5a52-4119-a950-8001b6c6cfbd.png">
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036053-8c97ea74-31b2-417a-bbea-0dc63c5b3acc.png">
     <img align="center" alt="img" width="40"   
