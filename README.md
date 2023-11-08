@@ -32,7 +32,7 @@ e novas maneiras de criação de sites.
 
 Você pode me chamar atravéz das minhas redes sociais ou
 📫 Email de contato: isaque.s.santana@unesp.br
-##
+#
 
 <!-- Fun GIF Section -->
 <p align="center">
