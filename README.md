@@ -16,9 +16,10 @@ Você pode me chamar atravéz das minhas redes sociais ou
     <img align="center" alt="img" height="35" width="40" src="https://user-images.githubusercontent.com/102702098/236036261-c4117af7-2630-4c32-945e-d525765fe75d.png">
     <img align="center" alt="img" height="40" width="40" src="https://user-images.githubusercontent.com/102702098/236036220-52bbace0-b1e9-4d01-8934-013223f808dd.png">
 </div>
+<br>
 
 <!-- Fun GIF Section -->
-<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%; height: 40px; object-fit: cover;">
+<img src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif" width="100%; height: 20px; object-fit: cover;">
 
 
 ## Redes Sociais 💻
