@@ -37,6 +37,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </a>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="100;">
-    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="100;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
+    <img src="https://img1.picmix.com/output/stamp/normal/5/4/6/0/1080645_76bc9.gif" width="20;">
 </div>
