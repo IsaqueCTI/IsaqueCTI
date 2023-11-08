@@ -21,7 +21,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 <!-- Fun GIF Section -->
 <p align="center">
-    <img src="https://sun9-73.userapi.com/impf/13KjueSC2ggxu0dFon1D_6e3eGUASG0DFjeXEg/PUVwj-flmEM.jpg?size=1920x768&quality=95&crop=0,40,1591,635&sign=4868f5fde7beafbe218342146dbc1814&type=cover_group" width="400; height: 50; object-fit: cover;">
+    <img src="https://sun9-73.userapi.com/impf/13KjueSC2ggxu0dFon1D_6e3eGUASG0DFjeXEg/PUVwj-flmEM.jpg?size=1920x768&quality=95&crop=0,40,1591,635&sign=4868f5fde7beafbe218342146dbc1814&type=cover_group" width="100%; object-fit: cover;">
 </p>
 
 ## Redes Sociais 💻
